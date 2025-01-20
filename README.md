@@ -28,5 +28,7 @@ Por favor asegúrese de introducir nombres en el input, de lo contrario recibir�
 
 <h5>
 Ante cualquier duda, comentario o sugerencia respecto al aplicativo, por favor contactarme a mi correo: julibustosar@gmail.com
-Estaré encantada de resoslver sus inquietudes.
+
+  
+  Estaré encantada de resoslver sus inquietudes.
 </h5>
