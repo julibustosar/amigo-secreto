@@ -2,7 +2,7 @@
 
 <h3 align="center"> Este proyecto se encuentra completado. </h3>
 
-![U/I del usuario](https://github.com/user-attachments/assets/b2ec4461-1e9b-4809-b90f-315910bd1afd)
+![Demonstración de funcionalidad del proyecto](https://github.com/user-attachments/assets/b2ec4461-1e9b-4809-b90f-315910bd1afd)
 
 <h4 align="center">Tecnología utilizada:</h4>
 <h5>
